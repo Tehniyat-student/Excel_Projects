@@ -2,12 +2,12 @@
 Title
 Budget Project
 
-Description
+Description:
 The Project Budget & Cost Tracking project is an Excel-based budgeting and cost management tool designed to help
 track project tasks, planned costs, actual expenses, and budget performance.The workbook organizes project expenses into 
 different categories such as Labor, Material, Travel, Equipment, Fixed Costs, and Miscellaneous Costs.
 
-Objectives
+Objectives:
 To create a structured project budget tracker.
 To record and monitor project tasks and their status.
 To calculate labor and material costs automatically.
@@ -17,7 +17,7 @@ To identify whether a task is under budget or over budget.
 To improve project cost monitoring and financial decision-making.
 To demonstrate practical Excel skills for data analysis and business reporting.
 
-Technology & Tools Used
+Technology & Tools Used:
 Microsoft Excel
 Excel Formulas
 Data Organization & Formatting
@@ -27,14 +27,14 @@ Budget & Cost Analysis
 Basic Data Management
 
 
-Excel Functions Used
+Excel Functions Used:
 SUM()
 IFERROR()
 Addition and subtraction formulas
 Cost × Quantity calculations
 
 
-Analysis & Insights
+Analysis & Insights:
 Which tasks have the highest actual cost?
 Which tasks are over budget?
 Which tasks are under budget?
