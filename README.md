@@ -1,6 +1,6 @@
 # Excel_Projects
 Title
-Budget Project
+Excel Budget Project
 
 Description:
 The Project Budget & Cost Tracking project is an Excel-based budgeting and cost management tool designed to help
@@ -22,7 +22,7 @@ Microsoft Excel
 Excel Formulas
 Data Organization & Formatting
 Conditional Formatting
-Date validation
+Data validation
 Budget & Cost Analysis
 Basic Data Management
 
